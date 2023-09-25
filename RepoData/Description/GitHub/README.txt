@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌐️↗️📖️ The official documentation source repository for UnIoT (Undo Internet of Things) a place to discuss, promote, and creative alternatives to Internet of Things (IoT) software, for preservation and functionality purposes.
