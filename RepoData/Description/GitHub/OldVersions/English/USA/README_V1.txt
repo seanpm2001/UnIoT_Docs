@@ -1,0 +1,1 @@
+🌐️↗️📖️ The official documentation source repository for UnIoT (Undo Internet of Things) a place to discuss, promote, and creative alternatives to Internet of Things (IoT) software, for preservation and functionality purposes.
